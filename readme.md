@@ -6,12 +6,11 @@
   <img src="vae.png" alt="VAEs" >
   <br>
     <br>
-  Wav2Vec2 Fine-Tuning for ASR
+  Probabilistic Generative Models
   <br>
 </h1>
  
 #### Autor: Salma OUARDI
-# Probabilistic Generative Models
 
 This repository contains implementations of several probabilistic generative models using PyTorch. The models were implemented from scratch, providing a deeper understanding of their inner workings.
 
